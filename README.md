@@ -1,7 +1,7 @@
 # Rails one to many practice
 
 1. Please fork and clone this repo.
-2. Follow the Rails guides here: https://guides.rubyonrails.org/getting_started.html
+2. Start at section 3.2 of the Rails Guides here: https://guides.rubyonrails.org/getting_started.html
 3. Instead of `Article` and `Comment` models, please create an app with the following.
 
 ### Course
